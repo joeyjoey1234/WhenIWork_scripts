@@ -3,8 +3,8 @@ import requests
 
 login_url = 'https://api.login.wheniwork.com/login'
 auth_creds = {
-    "email": "joepenafiel52@gmail.com",
-    "password": "Jjcool4life$"
+    "email": "cool@gmail.com",
+    "password": "nicePasssowrd"
 }
 clock_in_url = 'https://app.wheniwork.com/rest/times/clockin'
 get_info_url = 'https://api.wheniwork.com/2/login?show_pending=true'
